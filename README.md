@@ -1,5 +1,3 @@
-Here’s the README.md file in a copy-paste friendly format:
-
 # 🩺 MediScan - Your AI-Powered Medicine Identifier 🚀
 
 Welcome to **MediScan**, the ultimate AI-powered tool that helps you identify medicines from images and fetch essential medical details. Whether you're a pharmacist, a curious user, or someone who just found an old pill in their drawer—**MediScan has your back!** 💊
