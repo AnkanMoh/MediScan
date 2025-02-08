@@ -5,6 +5,7 @@ import pandas as pd
 from fuzzywuzzy import fuzz
 from groq import Groq
 
+pytesseract.pytesseract.tesseract_cmd = "/opt/homebrew/bin/tesseract" 
 GROQ_API_KEY = "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"
 client = Groq(api_key=GROQ_API_KEY)
 
