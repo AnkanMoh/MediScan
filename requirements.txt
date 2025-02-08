@@ -1,0 +1,7 @@
+streamlit
+sqlalchemy
+groq
+jsonlib-python3  # If json-specific utilities are needed
+os-sys
+openpyxl
+python-dotenv
