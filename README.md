@@ -18,8 +18,10 @@ Welcome to **MediScan**, the ultimate AI-powered tool that helps you identify me
 
 ## 🛠️ How to Run:
 ### 1️⃣ Install Dependencies
-```bash
+
 pip install -r requirements.txt
+
+---
 
 2️⃣ Setup API Key (Securely 🔒)
 	•	Create a .env file in your project directory.
@@ -34,9 +36,9 @@ GROQ_API_KEY=your_secret_api_key_here
 
 streamlit run app.py
 
-📸 Screenshots
+###📸 Screenshots###
 
-💡 How It Works:
+###💡 How It Works:###
 
 1️⃣ Upload a medicine label image or capture a new one.
 2️⃣ OCR extracts text and identifies the medicine name.
@@ -66,9 +68,4 @@ Want to make MediScan even cooler? Fork the repo, make changes, and send a pull 
 
 MediScan is licensed under the MIT License. Feel free to use, modify, and improve!
 
-💙 Developed with Passion by Ankan 🔥
-
-### ✅ **Now You Can Copy-Paste This Directly into `README.md`!**  
-This will **look perfect** when viewed on **GitHub or any markdown viewer.** 🚀🔥  
-
-Let me know if you need any **more tweaks or additions!**
+###💙 Developed with Passion by Ankan 🔥###
