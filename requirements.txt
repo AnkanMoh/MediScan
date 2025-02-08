@@ -1,8 +1,7 @@
 streamlit
 sqlalchemy
 groq
-jsonlib-python3 
-os-sys
+jsonlib-python3
 openpyxl
 python-dotenv
 pytesseract
