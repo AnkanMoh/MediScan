@@ -76,7 +76,7 @@ def fetch_additional_info_with_groq(medicine_name):
 st.title("🩺 MediScan")
 st.write("Upload an image or use your camera to identify a medicine and fetch additional details.")
 
-dataset_path = "/root/MediScan/Preprocessed_Dataset.csv"
+dataset_path = "Preprocessed_Dataset.csv"
 dataset = load_dataset(dataset_path)
 
 if "cart" not in st.session_state:
