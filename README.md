@@ -36,9 +36,9 @@ GROQ_API_KEY=your_secret_api_key_here
 
 streamlit run app.py
 
-###📸 Screenshots###
+###📸 Screenshots
 
-###💡 How It Works:###
+###💡 How It Works:
 
 1️⃣ Upload a medicine label image or capture a new one.
 2️⃣ OCR extracts text and identifies the medicine name.
