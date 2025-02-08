@@ -1,7 +1,11 @@
 streamlit
 sqlalchemy
 groq
-jsonlib-python3  # If json-specific utilities are needed
+jsonlib-python3 
 os-sys
 openpyxl
 python-dotenv
+pytesseract
+pandas
+fuzzywuzzy
+Pillow
